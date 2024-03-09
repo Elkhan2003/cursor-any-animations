@@ -1,4 +1,4 @@
-import React, { FC } from 'react';
+import { FC } from 'react';
 import scss from './Header.module.scss';
 
 const Header: FC = () => {
